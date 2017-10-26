@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-device","cordova-plugin-globalization","cordova-plugin-file","cordova-plugin-compat","cordova-plugin-inappbrowser","cordova-plugin-file-transfer","cordova-plugin-network-information","cordova-plugin-camera"]}
